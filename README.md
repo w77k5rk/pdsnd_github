@@ -10,7 +10,7 @@ Replace the Project Title
 This is a project simply created to train git and gitHUB
 
 ### Files used
-a python and a dat file
+a bikeshare python and a data file. The data file is not part of the repo.
 
 ### Credits
 udacity mostly

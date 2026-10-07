@@ -119,6 +119,8 @@ def user_stats(df):
 
 
 def main():
+    # main function calling the helper functions
+    # will repeat until user types no
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
